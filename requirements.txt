@@ -1,0 +1,7 @@
+Flask
+#pymongo
+mysql-connector
+pytest
+#mongomock
+mysql-connector-python
+
